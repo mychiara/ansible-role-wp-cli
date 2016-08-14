@@ -2,12 +2,8 @@
 
 Installs WP CLI.
 
-## Dependencies
-
-  - geerlingguy.php
-
 ## Example Playbook
 
     - hosts: webservers
       roles:
-    - { role: mglaman.wp-cli }
+    - { role: mychiara.wp-cli }
