@@ -1,4 +1,5 @@
 ---
+dependencies: []
 galaxy_info:
   author: mychiara
   description: WP CLI
@@ -38,4 +39,4 @@ galaxy_info:
   galaxy_tags:
     - development
     - web
-  issue_tracker_url: ''
+  issue_tracker_url: 'https://github.com/mychiara/ansible-role-wp-cli/issues'
