@@ -1,9 +1,8 @@
 ---
 galaxy_info:
-  author: mglaman
+  author: mychiara
   description: WP CLI
-  company: "Bluehorn Digital"
-  license: "license (BSD, MIT)"
+  license: "license (MIT)"
   min_ansible_version: 1.4
   platforms:
   - name: EL
