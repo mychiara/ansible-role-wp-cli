@@ -35,6 +35,7 @@ galaxy_info:
   - name: Debian
     versions:
     - all
-  categories:
+  galaxy_tags:
     - development
     - web
+  issue_tracker_url: ''
